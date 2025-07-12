@@ -93,8 +93,15 @@ Missing values are auto-handled. Label encoding is internally applied.
 
 ---
 
-**📷 Sample Screenshots**
-
+**📷 Sample Screenshots**                                                                                                                                                                                         
+<img width="1920" height="1007" alt="Screenshot (53) - Copy" src="https://github.com/user-attachments/assets/f70bbdb4-44e3-4cbf-82fe-c7f8c01ebf8c" />
+<img width="1920" height="1011" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/a8b30669-cbb6-4a6f-b3ee-9ea7184feca0" />
+<img width="1920" height="1017" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/8bc5bb4b-9ab5-415c-bb65-306aaede941f" />
+<img width="1920" height="1014" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/d3dae4d3-47c2-44a6-915d-1e2d5d57bccc" />
+<img width="1920" height="654" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/1c0f5c68-4c89-467c-8bff-56f0f1e1eec2" />
+<img width="1920" height="1004" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/985dd1b6-9c96-4aa6-93c9-5232c99d667a" />
+<img width="1920" height="1004" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/1e0ad4d3-4857-4a3b-9495-e454b8db1a38" />
+<img width="1920" height="833" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/2de77c4a-f87c-40eb-8808-d58911126f4b" />
 
 ---
 
