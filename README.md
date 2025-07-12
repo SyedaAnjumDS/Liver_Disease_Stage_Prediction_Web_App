@@ -1,14 +1,14 @@
-**Project Title:** **🩺 Liver Disease Stage Prediction Web App**
-
-->A fully interactive, end-to-end machine learning web application built with Streamlit that predicts the stage of liver disease based on patient clinical data.
+**Project Title:** **🩺 Liver Disease Stage Prediction Web App**                                                                                                                                                  
+->A fully interactive, end-to-end machine learning web application built with Streamlit that predicts the stage of liver disease based on patient clinical data.                                                  
 ->This app supports rich visualizations, multi-model comparison, and real-time prediction using both uploaded data and manual input.
 
 ---
 
-**📖 Project Overview:**
-->This project aims to assist medical professionals and data scientists by providing a lightweight, intelligent tool to classify liver disease into stages using clinical features. 
+**📖 Project Overview:**                                                                                                                                                                                          
+->This project aims to assist medical professionals and data scientists by providing a lightweight, intelligent tool to classify liver disease into stages using clinical features.                                
 ->It supports:
               1.Uploading patient datasets
+          
               2.Visual EDA to explore patterns
               3.Training 17+ classification models
               4.Evaluating model performance with metrics and charts
